@@ -14,7 +14,7 @@ function Counter() {
       <h2>Counter</h2>
       <p>Count: {count}</p>
       {/* Button to increment the counter */}
-      <button onClick={incrementCount}>Increment</button>
+      <button onClick={incrementCount}>Increment +1</button>
     </div>
   );
 }
